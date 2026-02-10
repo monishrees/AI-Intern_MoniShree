@@ -1,0 +1,201 @@
+student_id,age,gender,city,course_stream,study_hours_per_week,attendance_rate,prior_gpa_10pt,has_internet,device_type,parental_education,test_score,admission_date,fee_paid_inr,scholarship,comments
+S0001,24,Female,Mumbai,MCA,11.2,46.2,6.88,None,None,Phd,58.4,2023-08-11,63952,Partial,None
+S0002,21,Unknown,Mumbai,BBA,14.9,64.3,5.87,No,Mobile,None,85.8,2023-04-03,62085,Yes,Late enrollment
+S0003,24,Female,Bengaluru,NONE,13.4,57.7,7.15,No,Tablet,None,89.3,2023-04-03,55598,Yes,Transferred from another program
+S0004,28,Female,Remote,ME,8.9,64.6,7.27,No,Laptop,Undergrad,59.4,2024-02-02,54627,Partial,Good coder
+S0005,21,Male,Bengaluru,EE,11,52.2,7.22,None,Desktop,Phd,55.5,2023-04-03,60370.5,No,None
+S0006,21,Male,Bengaluru,MCA,9.5,98.4,7.17,No,Tablet,High School,75.1,2023-04-03,69382,None,Good coder
+S0007,22,Female,Delhi,MCA,9.1,80.6,7.44,Yes,Laptop,Undergrad,101.5,2023-04-03,64349,No,Needs scholarship support
+S0008,25,Male,Pune,ME,16.2,85.7,7.03,Yes,Tablet,None,77.5,2023-04-03,57035,No,Prefers evening classes
+S0009,20,Male,Remote,NONE,13.8,92.4,6.51,Yes,Laptop,None,71,2025-03-05,66174,No,Late enrollment
+S0010,24,Unknown,Kolkata,NONE,8.5,74.9,6.54,None,Mobile,Postgrad,45.3,2023-04-03,37212,No,None
+S0011,20,Male,Chennai,BBA,16.5,50.2,7.16,No,Laptop,High School,91.2,2023-04-03,69190,None,Transferred from another program
+S0012,20,Unknown,Mumbai,MCA,13.5,77.2,6.55,None,Laptop,Phd,94.9,2023-04-03,46082,Yes,None
+S0013,23,Male,Kolkata,NONE,16.1,80.2,6.34,Yes,Desktop,High School,58.8,2023-11-08,57100,None,None
+S0014,16,Unknown,Mumbai,NONE,15.1,89.7,7.33,Yes,Tablet,None,62.2,2023-04-03,51043,Partial,Late enrollment
+S0015,16,Female,Delhi,BBA,7.9,70.9,6.89,No,Laptop,Phd,72.3,2023-04-03,49643,No,Needs scholarship support
+S0016,20,Male,Mumbai,BBA,9.2,52.7,9,No,None,High School,73,2023-04-03,69287,None,Needs scholarship support
+S0017,18,Unknown,Bengaluru,EE,15.7,62,4.02,None,Laptop,None,77.9,2023-04-03,56258,Partial,None
+S0018,23,Female,Remote,MCA,15.1,66.8,8.51,No,Desktop,Undergrad,98.2,2023-04-03,62772,None,Prefers evening classes
+S0019,19,Male,Chennai,NONE,11.9,83.8,8.7,Yes,Mobile,Phd,65.3,2023-04-03,59625,No,Needs scholarship support
+S0020,17,Unknown,Hyderabad,NONE,12.1,79.2,4.71,Yes,Laptop,None,56,2023-06-05,63816,No,None
+S0021,28,Female,Mumbai,MBA,18.4,66.4,6.79,No,None,Undergrad,47.3,2023-04-03,60615,Partial,Prefers evening classes
+S0022,21,Male,Kolkata,BSC,9,72.1,6.75,No,Desktop,High School,57,2023-04-03,49736,None,Late enrollment
+S0023,22,Female,Bengaluru,BSC,14.7,81.3,5.51,Yes,Laptop,Phd,67.5,2023-04-03,67970,No,Transferred from another program
+S0024,17,Unknown,Hyderabad,BSC,11,59.2,6.27,Yes,Desktop,Postgrad,94.9,2023-04-03,56050,Partial,Late enrollment
+S0025,20,Male,Chennai,EE,10.9,51.1,5.87,No,Tablet,Postgrad,60.2,2023-04-03,47547,None,None
+S0026,22,Male,Hyderabad,NONE,17.5,54.2,9.3,None,Desktop,None,71.4,2023-04-03,56575,None,Transferred from another program
+S0027,18,Female,Bengaluru,BSC,12.1,59.8,8.32,Yes,Laptop,None,67.8,2023-04-03,72006,Partial,None
+S0028,23,Female,Remote,ME,16.1,54.6,7.15,No,Laptop,Phd,71.05,2023-04-03,66802,None,Late enrollment
+S0029,22,Unknown,Remote,ECE,18.5,56.2,8.07,None,Desktop,None,105.9,2023-04-03,57211,None,Good coder
+S0030,21,Female,Pune,BBA,12.1,62.1,5.85,No,Tablet,High School,60,2023-04-03,57206,No,Good coder
+S0031,20,Male,Remote,NONE,15.4,55.4,6.57,Yes,None,Postgrad,60.7,2023-04-03,57427,No,Late enrollment
+S0032,29,Male,Pune,NONE,10.4,98.8,7.79,None,Laptop,None,83.7,2023-04-03,76614,No,Needs scholarship support
+S0033,22,Female,Hyderabad,MBA,13.6,49.8,5.73,Yes,None,None,78.2,2023-04-03,63055,Partial,Needs scholarship support
+S0034,18,Male,Delhi,ECE,11.3,76.5,8.06,Yes,Tablet,Phd,95.7,2023-04-03,63440,Yes,Transferred from another program
+S0035,25,Unknown,Kolkata,EE,12.5,69.6,6.91,Yes,Mobile,Postgrad,76.8,2023-04-03,68242,None,Transferred from another program
+S0036,17,Unknown,Kolkata,BBA,15,72.1,6.75,Yes,Laptop,None,62.6,2023-04-03,61910,Partial,Good coder
+S0037,23,Female,Hyderabad,EE,7.9,51.7,8.05,No,Mobile,None,76.9,2023-04-03,57928,Yes,Prefers evening classes
+S0038,16,Female,Mumbai,NONE,22.5,68.9,7.73,Yes,Laptop,Phd,84.6,2023-04-03,58429,Yes,Late enrollment
+S0039,17,Female,Mumbai,ME,7,72.1,6.77,Yes,Tablet,None,80.3,2023-04-03,59427,Partial,Prefers evening classes
+S0040,23,Unknown,Remote,CS,5.9,96.9,7.15,Yes,Laptop,High School,75.6,2023-10-05,59702,Yes,Transferred from another program
+S0041,25,Female,Kolkata,CS,17.8,94,5.9,Yes,Mobile,None,84,2023-04-03,65821,No,Prefers evening classes
+S0042,23,Male,Kolkata,EE,16,60.5,7.94,No,Tablet,High School,85.5,2023-04-03,60416,Partial,None
+S0043,22,Male,Pune,BSC,15.1,55.3,7.91,Yes,None,Undergrad,88.7,2024-02-05,65861,None,None
+S0044,21,Female,Delhi,NONE,15.1,85.1,6.83,No,None,None,77.7,2023-04-03,59354,No,Good coder
+S0045,16,Male,Bengaluru,NONE,11.9,72.1,7.59,No,Mobile,None,65.5,2023-04-03,60629,None,Good coder
+S0046,19,Male,Mumbai,BSC,7.5,78.4,5.7,No,Mobile,Postgrad,70.2,2023-04-03,44014,Yes,None
+S0047,20,Female,Kolkata,MCA,12.4,79.3,8.31,No,Laptop,Undergrad,86.1,2023-04-03,60370.5,No,Transferred from another program
+S0048,26,Female,Pune,NONE,8.6,61.8,6.98,Yes,None,None,55.7,2023-04-03,62772,None,Late enrollment
+S0049,23,Male,Chennai,EE,16.9,91.2,6.57,None,Laptop,High School,73.5,2023-04-03,67984,Partial,Late enrollment
+S0050,16,Female,Pune,MCA,11.3,56.2,8.46,No,Mobile,Phd,62.1,2023-04-03,36830,Yes,Needs scholarship support
+S0051,23,Female,Mumbai,BSC,12.1,64.4,6.35,No,Laptop,High School,68.4,2023-04-03,76707,None,None
+S0052,21,Female,Mumbai,MCA,10.4,70.5,5.51,No,Tablet,None,87.2,2023-04-03,58883,Yes,None
+S0053,19,Unknown,Pune,EE,14.1,75.5,5.33,No,None,None,70.9,2023-04-03,68865,None,None
+S0054,24,Male,Bengaluru,ME,9.2,59.5,7.93,No,Tablet,High School,68.7,2023-04-03,51681,Partial,None
+S0055,26,Unknown,Hyderabad,CS,7.9,51.9,5.66,No,Laptop,Phd,47.6,2023-04-03,60370.5,No,Late enrollment
+S0056,26,Male,Mumbai,ECE,13.2,81.6,9.31,No,Laptop,Undergrad,79.2,2023-04-03,51573,None,Transferred from another program
+S0057,19,Male,Pune,MCA,13.2,62.3,4.7,None,Desktop,None,77.7,2023-04-03,55010,Yes,Good coder
+S0058,21,Male,Kolkata,EE,9.5,79.9,9.24,Yes,Laptop,Postgrad,100.4,2023-04-03,75312,Partial,Late enrollment
+S0059,23,Female,Pune,ME,9.6,54.3,7.45,Yes,None,High School,63.4,2024-09-04,58475,No,None
+S0060,26,Female,Delhi,NONE,13.2,73.9,7.08,Yes,None,High School,101.5,2023-04-03,61739,Yes,None
+S0061,20,Unknown,Hyderabad,BSC,4.8,77,6.55,No,Laptop,Postgrad,71.7,2023-04-03,66961,Partial,Good coder
+S0062,21,Unknown,Chennai,CS,5,48.1,7.68,No,Laptop,High School,91.7,2023-04-03,63965,Yes,Transferred from another program
+S0063,18,Male,Bengaluru,NONE,12.1,65.2,7.15,No,Tablet,Postgrad,66.6,2023-04-03,61203,Partial,Transferred from another program
+S0064,17,Unknown,Remote,EE,10.9,53.1,8.52,No,None,Postgrad,72.2,2023-04-03,62920,No,Transferred from another program
+S0065,25,Unknown,Chennai,ECE,13.6,48.8,7.34,Yes,Laptop,Postgrad,77.1,2023-04-03,79227,No,None
+S0066,27,Female,Hyderabad,BSC,19.4,72.1,7.38,No,Desktop,Phd,70.8,2023-04-03,59539,Yes,None
+S0067,22,Female,Hyderabad,ME,16.3,64.3,6.76,Yes,Mobile,Undergrad,61.3,2023-04-03,61609,Partial,Late enrollment
+S0068,26,Unknown,None,BSC,11.2,93.6,7.13,Yes,None,Undergrad,70.9,2023-04-03,68405,None,Transferred from another program
+S0069,23,Male,Chennai,NONE,11.9,60.3,7.57,No,Laptop,None,84.1,2023-04-03,68844,No,Needs scholarship support
+S0070,20,Male,Kolkata,NONE,7,85.9,5.15,Yes,Mobile,Phd,52.6,2023-04-03,69496,None,Transferred from another program
+S0071,23,Male,Hyderabad,NONE,11.9,90.6,5.58,Yes,Tablet,None,70,2024-04-12,65110,None,Transferred from another program
+S0072,28,Male,Pune,MBA,10.6,80.7,8.09,Yes,Desktop,None,57.5,2023-04-03,50856,Yes,Good coder
+S0073,22,Male,Chennai,BSC,13.6,73.3,7.41,No,None,Undergrad,85.9,2023-04-03,73067,Yes,Prefers evening classes
+S0074,28,Male,Remote,NONE,7.9,69.7,6.98,No,Mobile,Undergrad,45.2,2023-06-04,50829,Yes,Good coder
+S0075,16,Female,Hyderabad,NONE,14.6,65.9,7.22,Yes,Laptop,Undergrad,59.6,2023-04-03,62421,Partial,Needs scholarship support
+S0076,25,Female,Pune,MCA,19.7,72.1,7.62,Yes,Mobile,High School,73.7,2023-04-03,53966,No,Late enrollment
+S0077,22,Female,Kolkata,NONE,11.5,94.8,6.55,Yes,Laptop,None,91.5,2023-04-03,59487,No,Needs scholarship support
+S0078,21,Male,Delhi,BSC,14,72.1,6.27,No,Mobile,Phd,67,2023-04-03,62630,None,Prefers evening classes
+S0079,22,Male,Kolkata,ME,15.5,52.5,7.44,No,Tablet,None,59.7,2023-04-03,62571,Yes,Needs scholarship support
+S0080,16,Male,Remote,BSC,10,88.9,6.03,Yes,Mobile,None,96.2,2023-04-03,60370.5,Partial,Transferred from another program
+S0081,21,Unknown,Hyderabad,BSC,13.1,72.1,7.69,Yes,Tablet,Undergrad,46.3,2023-04-03,72910,No,Needs scholarship support
+S0082,23,Female,Remote,BBA,12.1,55.9,5.16,Yes,Tablet,Phd,35,2023-04-03,63628,Partial,Late enrollment
+S0083,28,Unknown,Chennai,EE,12.5,49,8.43,No,Laptop,None,74.6,2023-04-03,58047,Yes,Transferred from another program
+S0084,20,Unknown,Mumbai,BBA,8.1,89.5,7.77,Yes,Laptop,Undergrad,60.5,2023-04-03,67713,Yes,Transferred from another program
+S0085,19,Unknown,Hyderabad,NONE,12.1,79.5,7.51,No,Desktop,Undergrad,52.7,2023-04-03,69516,No,Transferred from another program
+S0086,20,Unknown,Mumbai,BSC,14.5,95.5,8.38,No,Tablet,Phd,78.6,2023-08-06,50179,None,Good coder
+S0087,25,Male,Pune,EE,19.3,53.4,9.2,Yes,Mobile,None,71.7,2023-04-03,64779,None,None
+S0088,23,Unknown,Delhi,BBA,16.8,92.7,8.42,Yes,Laptop,Postgrad,59.5,2023-04-03,60370.5,Yes,None
+S0089,20,Unknown,Bengaluru,BSC,22.8,57.1,4.99,No,Mobile,Phd,48.8,2023-04-03,57619,Yes,Late enrollment
+S0090,24,Female,Remote,ECE,8.2,54.8,5.66,Yes,Tablet,Postgrad,81.1,2023-04-03,71006,None,None
+S0091,22,Female,Kolkata,BBA,16.4,54.9,6.45,None,Laptop,None,77.8,2025-06-04,58800,Yes,Needs scholarship support
+S0092,26,Female,Delhi,EE,12.9,93.9,7.23,No,Mobile,High School,66.5,2023-04-03,61005,No,Prefers evening classes
+S0093,19,Male,Hyderabad,BBA,22.9,84.9,7.15,No,None,Phd,95.7,2023-04-03,60370.5,No,None
+S0094,21,Male,Mumbai,MBA,8,76.4,6.33,No,Laptop,Postgrad,51.9,2023-04-03,60125,Partial,None
+S0095,21,Unknown,Kolkata,MBA,7.8,66.5,7.42,No,Mobile,None,45.1,2023-04-03,51230,None,None
+S0096,16,Unknown,Mumbai,NONE,9,97.6,6.29,No,Laptop,None,71.05,2023-04-03,48480,Yes,Needs scholarship support
+S0097,23,Unknown,Chennai,ECE,1.4,68.5,6.47,No,Tablet,Undergrad,67.3,2023-04-03,72756,Partial,Needs scholarship support
+S0098,23,Female,Mumbai,ME,9.4,94,5.51,Yes,Tablet,High School,133,2023-04-03,53224,No,None
+S0099,22,Male,Chennai,ME,8.2,71.3,6.09,No,Tablet,Phd,64.4,2024-02-08,52069,None,Prefers evening classes
+S0100,21,Female,Pune,EE,12.8,67.6,5.58,Yes,Laptop,Postgrad,73.3,2023-04-03,42773,No,None
+S0101,17,Unknown,Kolkata,MCA,13.7,72.8,6.03,None,Mobile,None,49.2,2023-04-03,54888,Yes,Needs scholarship support
+S0102,20,Unknown,Kolkata,ME,12.1,63.1,8.46,Yes,None,Postgrad,89.7,2023-04-03,49415,Partial,None
+S0103,21,Female,Bengaluru,EE,16.8,89.9,6.06,Yes,Laptop,None,66.8,2023-04-03,73136,Yes,Late enrollment
+S0104,19,Female,Hyderabad,ECE,9.1,75.2,7.15,Yes,Laptop,Phd,84.8,2023-04-03,68079,Yes,None
+S0105,21,Female,Chennai,MCA,7.5,58.9,7.79,Yes,None,None,73.1,2023-04-03,54495,None,Transferred from another program
+S0106,24,Female,Bengaluru,MCA,14.5,99,7.42,None,Mobile,Postgrad,74.9,2023-04-03,78019,None,None
+S0107,29,Unknown,Mumbai,MBA,5.4,68,6.17,No,Mobile,Phd,76.5,2023-04-03,67854,Yes,None
+S0108,23,Unknown,Mumbai,NONE,21.2,77.6,8.04,Yes,Laptop,Postgrad,74.7,2023-04-03,57401,None,None
+S0109,23,Female,Bengaluru,BSC,17.9,99.4,6.51,No,Desktop,Undergrad,77.6,2023-04-03,40005,Partial,None
+S0110,22,Unknown,Kolkata,MCA,9.7,82.5,7.35,Yes,None,Phd,87.9,2023-04-03,78328,Partial,Prefers evening classes
+S0111,16,Male,Mumbai,NONE,3.4,52,7.15,No,Tablet,Phd,70.9,2023-04-03,48883,Yes,Good coder
+S0112,22,Female,Remote,EE,18.8,72.1,7.08,Yes,None,High School,78.6,2023-06-10,46837,Partial,Transferred from another program
+S0113,22,Unknown,Pune,MCA,11.4,82.7,8.58,Yes,Mobile,Undergrad,66.7,2024-08-11,68181,Yes,Good coder
+S0114,31,Female,Pune,MCA,18.2,65.1,6.36,No,Laptop,Phd,89.6,2024-12-05,79518,Partial,Good coder
+S0115,21,Male,Remote,NONE,4,53.4,7.16,Yes,Mobile,None,57.9,2023-04-03,71074,No,Good coder
+S0116,23,Female,Bengaluru,CS,9,92.6,9.32,No,Laptop,Postgrad,95,2023-04-03,64511,Yes,None
+S0117,22,Female,Remote,NONE,12,82.2,6.45,Yes,Desktop,None,67.4,2023-04-03,64758,Partial,Transferred from another program
+S0118,18,Female,Chennai,MCA,12.2,77,7.15,Yes,Tablet,Postgrad,46.5,2023-04-03,66827,No,Good coder
+S0119,26,Unknown,Chennai,BSC,9.7,98.6,8.05,Yes,None,None,69.9,2023-04-03,66071,Yes,Late enrollment
+S0120,25,Unknown,Bengaluru,CS,15.1,92.3,6.53,Yes,Desktop,Postgrad,57.8,2023-04-03,62250,Partial,Good coder
+S0121,25,Male,Remote,MBA,6.7,54.1,7.96,Yes,Tablet,High School,133,2023-04-03,60834,Partial,Prefers evening classes
+S0122,19,Female,Chennai,BBA,11.3,63.7,8.37,No,Mobile,None,58.2,2023-04-03,59499,No,None
+S0123,27,Unknown,Kolkata,MCA,12.6,59.9,7.95,No,Laptop,Phd,61.3,2023-04-03,53968,None,Late enrollment
+S0124,17,Unknown,Remote,MCA,14.6,89.6,5.32,No,Mobile,Postgrad,39.7,2023-04-03,57755,None,Needs scholarship support
+S0125,24,Unknown,Kolkata,NONE,15.6,47,6.33,None,Laptop,High School,61.2,2023-04-03,46456,No,None
+S0126,30,Female,Chennai,NONE,6.4,79.2,7.15,None,Laptop,None,31.6,2023-04-03,59213,No,Prefers evening classes
+S0127,18,Female,Pune,NONE,4.3,90.7,7.11,No,Laptop,None,44.2,2023-04-03,52091,Yes,Transferred from another program
+S0128,20,Unknown,Chennai,EE,18.4,97.6,7.94,Yes,None,None,79.4,2023-04-03,51171,None,Late enrollment
+S0129,22,Male,Kolkata,BSC,13.7,65.5,7.41,None,Desktop,High School,79.8,2023-04-03,61439,Yes,None
+S0130,20,Unknown,Delhi,EE,8.3,94.3,5.6,Yes,Laptop,None,74.4,2023-04-03,71136,Partial,Needs scholarship support
+S0131,16,Male,Hyderabad,BBA,19.8,51.6,7.66,Yes,Desktop,None,53.5,2023-04-03,67347,No,None
+S0132,22,Unknown,Mumbai,MCA,12.6,95.8,7.93,Yes,Tablet,Phd,67.3,2023-04-03,47436,Yes,None
+S0133,18,Unknown,Remote,BSC,17.9,52.6,7.87,No,None,Postgrad,67.9,2023-04-03,52083,No,Prefers evening classes
+S0134,24,Unknown,Delhi,CS,12.3,68.8,8.5,No,Laptop,Undergrad,50.6,2023-04-03,67526,Yes,Transferred from another program
+S0135,19,Male,Chennai,NONE,22.3,92.8,8.2,No,None,None,90.6,2023-04-03,52140,Partial,Good coder
+S0136,28,Male,Pune,MBA,20.8,54,7.75,Yes,Mobile,Postgrad,81.2,2023-04-03,58203,Partial,Good coder
+S0137,19,Unknown,Bengaluru,MCA,10.8,58.8,7.12,No,Laptop,Undergrad,64.7,2023-04-03,64400,None,Prefers evening classes
+S0138,21,Male,Chennai,ME,16.9,88.3,5.21,Yes,Desktop,None,68.4,2024-12-08,52253,None,Transferred from another program
+S0139,25,Female,Pune,BSC,15.2,88.2,7.72,Yes,Laptop,Undergrad,71.1,2024-10-08,60843,Partial,None
+S0140,17,Male,Hyderabad,ME,18.8,83.5,7.45,None,Mobile,None,37.4,2023-04-03,49328,Yes,None
+S0141,23,Female,Chennai,NONE,7.2,86.6,7.53,No,Laptop,Postgrad,64.3,2023-04-03,55189,No,None
+S0142,27,Male,Kolkata,NONE,15.4,77.6,5.67,Yes,Laptop,None,57.8,2023-04-03,62558,Partial,Needs scholarship support
+S0143,16,Male,Bengaluru,NONE,17.3,60.1,5.9,None,Desktop,None,53,2023-04-03,47256,Partial,None
+S0144,23,Male,Pune,MCA,3.2,65.7,8.46,Yes,Mobile,None,63.8,2023-04-03,63524,Yes,None
+S0145,23,Female,Pune,NONE,6.1,55.9,7.15,No,Laptop,None,95,2023-04-03,59843,Partial,Late enrollment
+S0146,25,Female,Pune,NONE,1.8,99.5,8.02,No,Tablet,Undergrad,77.6,2023-01-04,64420,Partial,None
+S0147,17,Unknown,Hyderabad,CS,10.7,80,7.23,None,None,None,59.4,2023-04-03,61791,Yes,None
+S0148,17,Female,Chennai,ECE,15.6,69.1,7.24,Yes,Laptop,High School,76.6,2023-07-09,70913,Partial,Prefers evening classes
+S0149,24,Unknown,Hyderabad,MCA,19.5,72.7,8.33,No,Tablet,None,89,2023-04-03,61002,None,Prefers evening classes
+S0150,23,Unknown,Remote,ME,12.4,72.1,6.58,No,Mobile,None,71.05,2023-04-03,56565,None,Good coder
+S0151,23,Unknown,Mumbai,BSC,20.1,54.2,7.32,Yes,Mobile,High School,68.9,2023-04-03,60978,None,None
+S0152,23,Unknown,Mumbai,ME,12.1,80.2,6.65,No,Mobile,Postgrad,58.3,2023-04-03,64346,None,None
+S0153,19,Unknown,Remote,CS,3.5,75.4,6.68,No,Desktop,Phd,78.5,2023-04-03,60391,Partial,Needs scholarship support
+S0154,23,Unknown,Chennai,BBA,11.7,81.7,6.83,None,Mobile,High School,73.9,2023-04-03,60325,No,None
+S0155,23,Female,Kolkata,MCA,13.9,46.1,7.47,Yes,None,None,81.4,2023-04-03,54384,None,None
+S0156,19,Unknown,Hyderabad,MBA,11.8,97.3,6.63,Yes,Desktop,Postgrad,77.5,2023-04-03,54697,None,Needs scholarship support
+S0157,29,Female,Bengaluru,EE,1.7,72.1,8.71,Yes,Mobile,None,83.7,2023-04-03,48779,Partial,None
+S0158,24,Male,Pune,BSC,11.6,78.9,6.13,No,Desktop,Undergrad,60,2023-04-03,73997,Partial,Late enrollment
+S0159,17,Unknown,Pune,NONE,5.5,86.8,6.98,Yes,None,High School,101.5,2023-04-03,50049,Yes,None
+S0160,24,Male,Chennai,MBA,15.3,72.1,6.67,Yes,None,Postgrad,71,2023-04-03,54457,None,Transferred from another program
+S0161,18,Female,Kolkata,MCA,12.1,87.4,8.94,None,Laptop,Postgrad,99.1,2023-04-03,54253,Yes,Needs scholarship support
+S0162,25,Female,Mumbai,NONE,7.3,54.2,7.44,No,Desktop,None,57.7,2023-04-03,67159,None,Good coder
+S0163,26,Male,Mumbai,MCA,9.4,79.6,7.15,Yes,Laptop,Phd,94,2023-04-03,57640,No,None
+S0164,22,Unknown,Pune,BBA,6.7,81.4,5.42,Yes,Tablet,Undergrad,101.5,2023-01-07,69982,Partial,Good coder
+S0165,26,Unknown,Chennai,ECE,11.7,70.4,7.52,None,Mobile,Undergrad,58.2,2023-04-03,54612,Partial,None
+S0166,24,Unknown,Hyderabad,BSC,16.8,89.2,8.27,Yes,Tablet,Undergrad,60.7,2023-04-03,62232,Yes,None
+S0167,25,Female,Mumbai,CS,7.1,72.1,7.3,No,None,None,63.2,2023-04-03,53317,Yes,None
+S0168,29,Male,None,NONE,14.5,72.1,8.48,None,Tablet,Postgrad,74.4,2023-04-06,77161,Partial,Prefers evening classes
+S0169,21,Male,Kolkata,CS,9.3,72.1,6.58,Yes,Laptop,None,75.8,2023-11-03,50499,Partial,Good coder
+S0170,19,Female,Mumbai,MBA,8,51.8,8.89,No,Tablet,None,59.4,2023-04-03,62479,Partial,Needs scholarship support
+S0171,19,Male,Mumbai,EE,11.5,72.1,9.96,No,Laptop,Postgrad,67.6,2023-04-03,65070,None,Late enrollment
+S0172,19,Male,Delhi,ECE,6.8,95.3,6.76,No,Tablet,Undergrad,100.1,2023-04-03,63310,None,None
+S0173,22,Unknown,Mumbai,CS,9.2,52.5,6.67,Yes,None,Postgrad,71.05,2023-04-03,58518,No,None
+S0174,23,Male,Remote,CS,6,72.1,8.94,None,None,Phd,74.5,2023-04-03,58961,None,Needs scholarship support
+S0175,23,Male,Bengaluru,EE,21.8,97.2,9.1,Yes,Laptop,Postgrad,68.6,2023-04-03,60350,Partial,Late enrollment
+S0176,25,Male,Remote,EE,12.2,76.1,6.57,No,Mobile,None,69.8,2023-04-03,58824,None,Transferred from another program
+S0177,22,Female,Chennai,CS,12.1,80.5,6.7,Yes,Desktop,Postgrad,77.2,2023-04-03,67711,Yes,Late enrollment
+S0178,28,Male,Chennai,NONE,13.1,68.9,6.86,Yes,Mobile,High School,52.7,2023-04-03,77684,Partial,None
+S0179,21,Male,Hyderabad,ME,12.1,48.3,5.59,Yes,None,Phd,64.1,2023-04-03,55540,None,Good coder
+S0180,32,Female,Remote,EE,10.9,65.1,6.1,None,Mobile,High School,43,2023-04-03,49042,Partial,Good coder
+S0181,24,Male,Remote,ME,15.1,93.2,6,Yes,Tablet,Undergrad,74,2023-04-03,59294,Yes,Good coder
+S0182,19,Male,Remote,BSC,15.8,45.3,7.15,No,Tablet,Undergrad,77.7,2023-04-03,80638,Yes,Transferred from another program
+S0183,18,Female,Kolkata,ECE,9.3,65,7.16,Yes,None,None,60.8,2023-04-03,53571,None,Prefers evening classes
+S0184,24,Unknown,Mumbai,NONE,12.1,68.9,7.48,None,None,None,91.6,2023-05-03,73113,Partial,None
+S0185,21,Male,Bengaluru,NONE,10.6,77.2,9.06,No,Mobile,None,49.6,2023-04-03,73422,No,None
+S0186,25,Female,Hyderabad,BSC,0.5,72.1,6,No,Mobile,Phd,46,2023-04-03,55571,Yes,None
+S0187,24,Unknown,Remote,BBA,4.4,65.8,8.38,No,Tablet,None,71.4,2023-04-03,64552,No,None
+S0188,22,Male,Remote,MBA,18.8,65.8,6.94,Yes,Desktop,Postgrad,83.7,2023-04-03,73027,None,Transferred from another program
+S0189,19,Unknown,Delhi,ME,20.2,89.3,7.14,No,Laptop,High School,93.3,2023-04-03,56967,Yes,Good coder
+S0190,22,Unknown,Hyderabad,NONE,10.8,72.1,8.01,Yes,Desktop,Phd,61.1,2023-04-03,58371,No,None
+S0191,20,Unknown,Remote,NONE,14.9,58.5,5.85,No,None,High School,84.2,2023-04-03,55347,Yes,None
+S0192,25,Male,Hyderabad,ECE,13.6,72.1,7.66,No,Mobile,Postgrad,67.4,2023-04-03,51882,No,Transferred from another program
+S0193,23,Unknown,Mumbai,ME,12.1,53.5,7.4,No,Desktop,None,65.4,2024-01-02,54806,Partial,Transferred from another program
+S0194,17,Female,Delhi,BBA,17.6,55.6,7.79,Yes,Mobile,High School,81.3,2023-04-03,50208,Partial,Good coder
+S0195,23,Male,Hyderabad,ECE,11.4,74.9,7.55,Yes,Laptop,Phd,77.8,2023-04-03,60273,None,Good coder
+S0196,23,Female,Bengaluru,NONE,7.2,70.1,7.15,No,Tablet,Postgrad,44.4,2023-04-03,53840,Yes,Transferred from another program
+S0197,19,Female,Bengaluru,CS,4,99.9,6.43,Yes,Laptop,None,90.1,2023-04-03,61870,No,None
+S0198,23,Female,Chennai,BBA,13,66.7,6.56,No,Mobile,None,88.7,2023-07-04,47553,None,Needs scholarship support
+S0199,22,Male,None,NONE,8.2,79.8,6.45,No,Laptop,None,58.6,2023-04-03,62647,Partial,Good coder
+S0200,18,Female,Delhi,MCA,4.9,82.9,6.53,No,Mobile,Postgrad,73.9,2023-04-03,66668,Partial,None
